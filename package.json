@@ -123,7 +123,10 @@
     "vuepress": "^2.0.0-beta.35",
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0",
-    "webpack-node-externals": "^3.0.0"
+    "webpack-node-externals": "^3.0.0",
+    "progress-player-react": "0.1.24",
+    "diff": "3.1.0",
+    "jq": "1.7.2"
   },
   "jest": {
     "moduleFileExtensions": [
