@@ -73,7 +73,8 @@
     "swagger-ui-express": "^4.5.0",
     "typeorm": "^0.3.9",
     "typeorm-transactional-cls-hooked": "git+https://github.com/jczacharia/typeorm-transactional-cls-hooked.git",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "diff": "5.1.0"
   },
   "devDependencies": {
     "@handfish/hygen": "^6.1.6",
